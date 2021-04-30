@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ShivaanshK
-- 👀 I’m interested in CS and Fintech
-- 🌱 I’m currently learning CS
+- 🌱 I’m interested in CS and Fintech
 
 <!---
 ShivaanshK/ShivaanshK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
